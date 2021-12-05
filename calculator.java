@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//new code
+
  public class calculator
   {
     public static void main(String args[])
